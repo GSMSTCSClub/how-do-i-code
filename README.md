@@ -29,11 +29,14 @@ These are resources for people who know how to program but want to learn more ab
 
 ### I want to learn about AI.
 
+- [TensorFlow tutorials](https://www.tensorflow.org/overview): A tutorial over TensorFlow, a commonly used AI library for Python.
+
 TODO
 
 ### I want to learn about Cybersecurity.
 
 - [The Joy of Cryptography](https://joyofcryptography.com): A free undergraduate-level textbook that introduces students to the fundamentals of provable security.
+
 TODO
 
 ### I want to learn language \[X\].

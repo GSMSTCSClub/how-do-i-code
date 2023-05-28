@@ -4,13 +4,15 @@ Hey, are you looking for resources to learn how to code, practice your programmi
 
 ## Table of Contents
 
-Introductory Resources
+Beginners
 
 1. I literally have never coded before. What do I do?
-2. I want to learn...
-    - AI
-    - Cybersecurity
-3. I know how to program but I want to learn language \[X\].
+
+Introductory Resources
+
+1. I want to learn about AI.
+2. I want to learn about Cybersecurity.
+3. I want to learn language \[X\].
 
 Classroom
 
@@ -24,19 +26,21 @@ Practice
 
 Boredom
 
+## Beginners
+
+These are resources for beginners—people who have never programmed at all.
+
 ## Introductory Resources
 
-These are resources to start learning a new topic or language.
+These are resources for people who know how to program but want to learn more about a new topic or language.
 
 ### I literally have never coded before. What do I do?
 
-### I want to learn a new topic.
+### I want to learn about AI.
 
-#### AI
+### I want to learn about Cybersecurity.
 
-#### Cybersecurity
-
-### I know how to program but I want to learn language \[X\].
+### I want to learn language \[X\].
 
 ## Classroom
 

@@ -6,7 +6,7 @@ Hey, are you looking for resources to learn how to code, practice your programmi
 
 Beginners
 
-1. I literally have never coded before. What do I do?
+1. I have never coded before. What do I do?
 
 Introductory Resources
 
@@ -28,13 +28,13 @@ Boredom
 
 ## Beginners
 
-These are resources for beginners—people who have never programmed at all.
+These are resources for beginners: people who have never programmed at all and want to learn how to program.
+
+### I have never coded before. What do I do?
 
 ## Introductory Resources
 
 These are resources for people who know how to program but want to learn more about a new topic or language.
-
-### I literally have never coded before. What do I do?
 
 ### I want to learn about AI.
 

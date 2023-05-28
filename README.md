@@ -4,33 +4,24 @@ Hey, are you looking for resources to learn how to code, practice your programmi
 
 ## Table of Contents
 
-Beginners
-
-1. I have never coded before. What do I do?
-
-Introductory Resources
-
-1. I want to learn about AI.
-2. I want to learn about Cybersecurity.
-3. I want to learn language \[X\].
-
-Classroom
-
-1. AP CSP review
-2. AP CSA review
-
-Practice
-
-1. I want some basic problems to practice my programming skills.
-2. I want to work on a project to hone my programming skills.
-
-Boredom
+- [How Do I Code?](#how-do-i-code)
+  - [Table of Contents](#table-of-contents)
+  - [Beginners](#beginners)
+  - [Introductory Resources](#introductory-resources)
+    - [I want to learn about AI.](#i-want-to-learn-about-ai)
+    - [I want to learn about Cybersecurity.](#i-want-to-learn-about-cybersecurity)
+    - [I want to learn language \[X\].](#i-want-to-learn-language-x)
+  - [Classroom](#classroom)
+    - [AP CSP review](#ap-csp-review)
+    - [AP CSA review](#ap-csa-review)
+  - [Practice](#practice)
+    - [I want some basic problems to practice my programming skills.](#i-want-some-basic-problems-to-practice-my-programming-skills)
+    - [I want to work on a project to hone my programming skills.](#i-want-to-work-on-a-project-to-hone-my-programming-skills)
+  - [Boredom](#boredom)
 
 ## Beginners
 
 These are resources for beginners: people who have never programmed at all and want to learn how to program.
-
-### I have never coded before. What do I do?
 
 ## Introductory Resources
 

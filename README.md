@@ -10,6 +10,7 @@ Hey, are you looking for resources to learn how to code, practice your programmi
   - [Introductory Resources](#introductory-resources)
     - [I want to learn about AI.](#i-want-to-learn-about-ai)
     - [I want to learn about Cybersecurity.](#i-want-to-learn-about-cybersecurity)
+    - [I want to learn about Web Design!](#i-want-to-learn-about-web-design)
     - [I want to learn language \[X\].](#i-want-to-learn-language-x)
   - [Classroom](#classroom)
     - [AP CSP review](#ap-csp-review)
@@ -38,6 +39,12 @@ TODO
 - [The Joy of Cryptography](https://joyofcryptography.com): A free undergraduate-level textbook that introduces students to the fundamentals of provable security.
 
 TODO
+
+### I want to learn about Web Design!
+
+- [The Odin Project](https://www.theodinproject.com/paths): A free resource aimed to give beginners a high-quality education. It currently has a curriculum that'll provide experience in web development.
+  - [Foundations](https://www.theodinproject.com/paths/foundations): Hands-on introduction to all tools for web development
+  - [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript): An exploration of how to build websites with JS
 
 ### I want to learn language \[X\].
 
